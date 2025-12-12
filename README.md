@@ -2,6 +2,10 @@
 
 A Temporal TypeScript workflow that fetches your public IP address and retrieves geolocation information.
 
+## About Temporal
+
+[Temporal](https://temporal.io/) is an open-source durable execution platform that makes building reliable applications simple. It automatically captures application state at every step, so workflows can resume exactly where they left off after any failure—no complex retry logic needed. This project demonstrates Temporal's workflow orchestration with automatic retries and activity coordination.
+
 ## What It Does
 
 1. **Fetches your public IP** using [icanhazip.com](https://icanhazip.com)
